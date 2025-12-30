@@ -5,6 +5,7 @@ Notes: It only recommends book from the vector database that created from GoodRe
 ============================================= </n>
 
 HUMAN QUESTION:
+
 " I love reading fiction books, can you recommend top reviewed fiction in the last 10 years? "
 
 ============================================= </n>
